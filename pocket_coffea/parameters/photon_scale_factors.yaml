@@ -20,6 +20,21 @@ photon_scale_factors:
         '2018':
             id: UL-Photon-ID-SF
             pxseed: UL-Photon-PixVeto-SF
+        '2016_PreVFP_v15':
+            id: UL-Photon-ID-SF
+            pxseed: UL-Photon-PixVeto-SF
+
+        '2016_PostVFP_v15':
+            id: UL-Photon-ID-SF
+            pxseed: UL-Photon-PixVeto-SF
+
+        '2017_v15':
+            id: UL-Photon-ID-SF
+            pxseed: UL-Photon-PixVeto-SF
+
+        '2018_v15':
+            id: UL-Photon-ID-SF
+            pxseed: UL-Photon-PixVeto-SF
 
         '2022_preEE':
             id: Photon-ID-SF
