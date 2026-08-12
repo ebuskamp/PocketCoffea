@@ -61,8 +61,8 @@ default_jets_calibration:
           - "${default_params_dir:}/jec/Summer19UL18_V5_MC_L2Relative_AK4PFchs.jec.txt.gz"
           - "${default_params_dir:}/jec/RegroupedV2_Summer19UL18_V5_MC_UncertaintySources_AK4PFchs.junc.txt.gz"
           - "${default_params_dir:}/jec/Summer19UL18_V5_MC_Uncertainty_AK4PFchs.junc.txt.gz"
-          - "${default_params_dir:}/jec/Summer19UL18_JRV2_MC_PtResolution_AK4PFchs.jr.txt.gz"
-          - "${default_params_dir:}/jec/Summer19UL18_JRV2_MC_SF_AK4PFchs.jersf.txt.gz"
+          - "${default_params_dir:}/jec/Summer19UL18_JRV3_MC_PtResolution_AK4PFchs.jr.txt.gz"
+          - "${default_params_dir:}/jec/Summer19UL18_JRV3_MC_SF_AK4PFchs.jersf.txt.gz"
 
       ####################################################################################
       JES_JER_noJESSyst:
@@ -87,8 +87,8 @@ default_jets_calibration:
         "2018":
           - "${default_params_dir:}/jec/Summer19UL18_V5_MC_L1FastJet_AK4PFchs.jec.txt.gz"
           - "${default_params_dir:}/jec/Summer19UL18_V5_MC_L2Relative_AK4PFchs.jec.txt.gz"
-          - "${default_params_dir:}/jec/Summer19UL18_JRV2_MC_PtResolution_AK4PFchs.jr.txt.gz"
-          - "${default_params_dir:}/jec/Summer19UL18_JRV2_MC_SF_AK4PFchs.jersf.txt.gz"
+          - "${default_params_dir:}/jec/Summer19UL18_JRV3_MC_PtResolution_AK4PFchs.jr.txt.gz"
+          - "${default_params_dir:}/jec/Summer19UL18_JRV3_MC_SF_AK4PFchs.jersf.txt.gz"
 
 
       #################################################################################       
@@ -154,8 +154,8 @@ default_jets_calibration:
           - "${default_params_dir:}/jec/Summer19UL18_V5_MC_L2Relative_AK8PFPuppi.jec.txt.gz"
           - "${default_params_dir:}/jec/Summer19UL18_V5_MC_UncertaintySources_AK8PFPuppi.junc.txt.gz"
           - "${default_params_dir:}/jec/Summer19UL18_V5_MC_Uncertainty_AK8PFPuppi.junc.txt.gz"
-          - "${default_params_dir:}/jec/Summer19UL18_JRV2_MC_PtResolution_AK8PFPuppi.jr.txt.gz"
-          - "${default_params_dir:}/jec/Summer19UL18_JRV2_MC_SF_AK8PFPuppi.jersf.txt.gz"
+          - "${default_params_dir:}/jec/Summer19UL18_JRV3_MC_PtResolution_AK8PFPuppi.jr.txt.gz"
+          - "${default_params_dir:}/jec/Summer19UL18_JRV3_MC_SF_AK8PFPuppi.jersf.txt.gz"
 
       ####################################################################################
       JES_JER_noJESSyst:
@@ -180,8 +180,8 @@ default_jets_calibration:
         "2018":
           - "${default_params_dir:}/jec/Summer19UL18_V5_MC_L1FastJet_AK8PFPuppi.jec.txt.gz"
           - "${default_params_dir:}/jec/Summer19UL18_V5_MC_L2Relative_AK8PFPuppi.jec.txt.gz"
-          - "${default_params_dir:}/jec/Summer19UL18_JRV2_MC_PtResolution_AK8PFPuppi.jr.txt.gz"
-          - "${default_params_dir:}/jec/Summer19UL18_JRV2_MC_SF_AK8PFPuppi.jersf.txt.gz"
+          - "${default_params_dir:}/jec/Summer19UL18_JRV3_MC_PtResolution_AK8PFPuppi.jr.txt.gz"
+          - "${default_params_dir:}/jec/Summer19UL18_JRV3_MC_SF_AK8PFPuppi.jersf.txt.gz"
 
       #################################################################################       
       JES_noJER:

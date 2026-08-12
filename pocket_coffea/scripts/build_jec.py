@@ -95,8 +95,8 @@ jet_factory = {
             "Summer19UL18_V5_MC_L2Relative_AK4PFchs.jec.txt.gz",
             "RegroupedV2_Summer19UL18_V5_MC_UncertaintySources_AK4PFchs.junc.txt.gz",
             "Summer19UL18_V5_MC_Uncertainty_AK4PFchs.junc.txt.gz",
-            "Summer19UL18_JRV2_MC_PtResolution_AK4PFchs.jr.txt.gz",
-            "Summer19UL18_JRV2_MC_SF_AK4PFchs.jersf.txt.gz",
+            "Summer19UL18_JRV3_MC_PtResolution_AK4PFchs.jr.txt.gz",
+            "Summer19UL18_JRV3_MC_SF_AK4PFchs.jersf.txt.gz",
         ]
     ),
     "2018_NOJER": jet_factory_factory(
@@ -110,8 +110,8 @@ jet_factory = {
         files=[
             "Summer19UL18_V5_MC_L1FastJet_AK4PFchs.jec.txt.gz",
             "Summer19UL18_V5_MC_L2Relative_AK4PFchs.jec.txt.gz",
-            "Summer19UL18_JRV2_MC_PtResolution_AK4PFchs.jr.txt.gz",
-            "Summer19UL18_JRV2_MC_SF_AK4PFchs.jersf.txt.gz",
+            "Summer19UL18_JRV3_MC_PtResolution_AK4PFchs.jr.txt.gz",
+            "Summer19UL18_JRV3_MC_SF_AK4PFchs.jersf.txt.gz",
         ]
     ),
 }
@@ -182,8 +182,8 @@ fatjet_factory = {
             "Summer19UL18_V5_MC_L2Relative_AK8PFPuppi.jec.txt.gz",
             "Summer19UL18_V5_MC_UncertaintySources_AK8PFPuppi.junc.txt.gz",
             "Summer19UL18_V5_MC_Uncertainty_AK8PFPuppi.junc.txt.gz",
-            "Summer19UL18_JRV2_MC_PtResolution_AK8PFPuppi.jr.txt.gz",
-            "Summer19UL18_JRV2_MC_SF_AK8PFPuppi.jersf.txt.gz",
+            "Summer19UL18_JRV3_MC_PtResolution_AK8PFPuppi.jr.txt.gz",
+            "Summer19UL18_JRV3_MC_SF_AK8PFPuppi.jersf.txt.gz",
         ]
     ),
     "2018_NOJER": jet_factory_factory(
@@ -197,8 +197,8 @@ fatjet_factory = {
         files=[
             "Summer19UL18_V5_MC_L1FastJet_AK8PFPuppi.jec.txt.gz",
             "Summer19UL18_V5_MC_L2Relative_AK8PFPuppi.jec.txt.gz",
-            "Summer19UL18_JRV2_MC_PtResolution_AK8PFPuppi.jr.txt.gz",
-            "Summer19UL18_JRV2_MC_SF_AK8PFPuppi.jersf.txt.gz",
+            "Summer19UL18_JRV3_MC_PtResolution_AK8PFPuppi.jr.txt.gz",
+            "Summer19UL18_JRV3_MC_SF_AK8PFPuppi.jersf.txt.gz",
         ]
     ),
 }
